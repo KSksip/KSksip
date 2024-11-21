@@ -1,6 +1,6 @@
-# Yo
-## Im just trynna learn how to code.
+## Yo!
+learning how to code ¯\\\_(ツ)_/¯
 <br />
-## i like these languages ↓
+**i like these ↓**
 
 ![Languages](https://skillicons.dev/icons?i=js,html,css,cs,vue&perline=10)

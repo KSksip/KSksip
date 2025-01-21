@@ -1,6 +1,7 @@
-## Yo!
-Student, Melee player, Gamer
+## Yo! whaddup
+- Student
+- Melee Falcon Player ![falcon](https://wiki.supercombo.gg/w/SSBM/Captain_Falcon)
 <br />
-**i like these ↓**
+**Tools and languages↓**
 
-![Languages](https://skillicons.dev/icons?i=vue,nuxt,tailwind,js,ts,cs,python&perline=5)
+![Languages](https://skillicons.dev/icons?i=vue,nuxt,tailwind,js,ts,cs&perline=10)

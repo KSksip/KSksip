@@ -1,5 +1,5 @@
 ## Yo!
-learning how to code ¯\\\_(ツ)_/¯
+Student, Melee player, Gamer
 <br />
 **i like these ↓**
 

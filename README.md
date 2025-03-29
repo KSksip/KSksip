@@ -1,6 +1,6 @@
 ## Yo! whaddup im me!
 - Student
-- Melee Captain Falcon Player
+- Melee Marth Player
 - Souls gamer
 
 

@@ -4,4 +4,4 @@
 
 
 ### Preferred Tools and Languages ↓
-![Languages](https://skillicons.dev/icons?i=vue,nuxt,tailwind,js,ts,cs&perline=10)
+![Languages](https://skillicons.dev/icons?i=vue,nuxt,tailwind,js,ts&perline=10)

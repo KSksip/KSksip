@@ -1,4 +1,4 @@
-## Yo! whaddup im me!
+## Yo! im me!
 - Student
 - Melee Marth Player
 

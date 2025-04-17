@@ -1,7 +1,6 @@
 ## Yo! whaddup im me!
 - Student
 - Melee Marth Player
-- Souls gamer
 
 
 ### Preferred Tools and Languages ↓
